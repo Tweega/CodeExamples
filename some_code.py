@@ -11,3 +11,7 @@ def somethingElseWithInts(a: int, b: int):
     k = (9 - a) * b
     
     j + k
+
+def somethingWithStrings(a: str, b: str):
+    
+    a + b
